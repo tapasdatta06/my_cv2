@@ -1,0 +1,22 @@
+body {
+   background-color: rgb(190, 135, 235);
+   font-family: Arial, sans-serif;
+   margin: 20px;
+}
+
+h1 {
+   color: rgb(0, 76, 139);
+}
+
+img {
+   border: 2px solid rgb(0, 0, 0);
+   border-radius: 10px;
+}
+
+table {
+   width: 100%;
+}
+
+hr {
+   border: 1px solid rgb(0, 0, 0);
+}
